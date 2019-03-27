@@ -17,6 +17,7 @@ Plugin 'Shougo/neocomplete.vim'
 Plugin 'Shougo/neosnippet.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'Yggdroot/indentLine'
+Plugin 'Lokaltog/vim-powerline'
 
 
 " Add all your plugins here (note older versions of Vundle used Bundle instead of Plugin)
